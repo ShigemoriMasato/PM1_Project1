@@ -4,7 +4,7 @@ int main() {
 
 	printf("GoodAfternoon World!\n");
 
-	printf("Pull Request Branch Changed!\n");
+	printf("コンフリクト修復済\n");
 
 	return 0;
 }
